@@ -3,7 +3,7 @@
     padding: 0;
 }
 article{
-    background-color: rgb(199, 247, 247);
+    background-color: rgb(216, 191, 216);
 }
 nav{
     background-color: rgb(56, 55, 55);
@@ -17,7 +17,7 @@ body {
 }
 
 header {
-    background-color: #007bff;
+    background-color: #DA70D6;
     padding: 10px 0;
 }
 
@@ -34,7 +34,7 @@ nav ul li {
 }
 
 nav ul li a {
-    color: #fff;
+    color: #927878;
     text-decoration: none;
     font-weight: bold;
 }
@@ -108,7 +108,7 @@ tbody tr:nth-child(even) {
 
 .card-title {
     font-size: 1.5rem;
-    color: #007bff;
+    color: #8A2BE2;
 }
 
 .card-subtitle {
@@ -121,7 +121,7 @@ tbody tr:nth-child(even) {
 }
 
 .card-link {
-    color: #007bff;
+    color: #8A2BE2;
     text-decoration: none;
 }
 
@@ -144,7 +144,7 @@ footer {
 
 footer h5 {
     font-size: 1.25rem;
-    color: #ffc107;
+    color: #9d21ce;
 }
 
 footer p {
@@ -162,7 +162,7 @@ footer a:hover {
 }
 
 footer .text-warning {
-    color: #ffc107 !important;
+    color: #9d21ce !important;
 }
 
 .container-fluid {
